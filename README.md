@@ -1,5 +1,3 @@
-# FATA-Muslimah
-Menjual Abaya Turki
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -11,7 +9,6 @@ Menjual Abaya Turki
 <body>
     <div class="product-container">
         <h1>Abaya Turki</h1>
-
         <div class="product">
             <h2>Abaya Turki Hitam</h2>
             <img src="abaya-hitam.jpg" alt="Abaya Hitam" class="product-image">
@@ -36,7 +33,6 @@ Menjual Abaya Turki
             </div>
             <button class="add-to-cart">Tambah ke Keranjang</button>
         </div>
-
         <div class="product">
             <h2>Abaya Turki Army</h2>
             <img src="abaya-army.jpg" alt="Abaya Army" class="product-image">
@@ -61,8 +57,7 @@ Menjual Abaya Turki
             </div>
             <button class="add-to-cart">Tambah ke Keranjang</button>
         </div>
-
-        <!-- Tambahkan produk lainnya dengan cara yang sama -->
+        < !-- Tambahkan produk lainnya dengan cara yang sama -->
     </div>
 </body>
 </html>
